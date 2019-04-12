@@ -1,0 +1,29 @@
+{
+  "name": "fuse-shared-library",
+  "version": "1.0.1",
+  "description": "Cross-platform FUSE libraries for OSX/Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuse-friends/fuse-shared-library.git"
+  },
+  "keywords": [
+    "fuse"
+  ],
+  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuse-friends/fuse-shared-library/issues"
+  },
+  "homepage": "https://github.com/fuse-friends/fuse-shared-library#readme",
+  "dependencies": {
+    "fuse-shared-library-darwin": "^1.0.0",
+    "fuse-shared-library-linux": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

@@ -21,7 +21,8 @@
   "homepage": "https://github.com/fuse-friends/fuse-shared-library#readme",
   "dependencies": {
     "fuse-shared-library-darwin": "^1.0.3",
-    "fuse-shared-library-linux": "^1.0.1"
+    "fuse-shared-library-linux": "^1.0.1",
+    "fuse-shared-library-linux-arm": "^1.0.0"
   },
   "devDependencies": {
     "standard": "^12.0.1"
